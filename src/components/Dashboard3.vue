@@ -126,7 +126,7 @@
 
                     <div class="inbox-widget" data-simplebar style="max-height: 407px;">
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-2.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-2.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Tomaslau</p>
                             <p class="inbox-item-text">I've finished it! See you so...</p>
                             <p class="inbox-item-date">
@@ -134,7 +134,7 @@
                             </p>
                         </div>
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-3.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-3.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Stillnotdavid</p>
                             <p class="inbox-item-text">This theme is awesome!</p>
                             <p class="inbox-item-date">
@@ -142,7 +142,7 @@
                             </p>
                         </div>
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-4.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-4.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Kurafire</p>
                             <p class="inbox-item-text">Nice to meet you</p>
                             <p class="inbox-item-date">
@@ -151,7 +151,7 @@
                         </div>
 
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-5.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-5.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Shahedk</p>
                             <p class="inbox-item-text">Hey! there I'm available...</p>
                             <p class="inbox-item-date">
@@ -159,7 +159,7 @@
                             </p>
                         </div>
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-6.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-6.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Adhamdannaway</p>
                             <p class="inbox-item-text">This theme is awesome!</p>
                             <p class="inbox-item-date">
@@ -168,7 +168,7 @@
                         </div>
 
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-3.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-3.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Stillnotdavid</p>
                             <p class="inbox-item-text">This theme is awesome!</p>
                             <p class="inbox-item-date">
@@ -176,7 +176,7 @@
                             </p>
                         </div>
                         <div class="inbox-item">
-                            <!-- <div class="inbox-item-img"><img src="../assets/images/users/user-4.jpg" class="rounded-circle" alt=""></div> -->
+                            <div class="inbox-item-img"><img src="../assets/images/users/user-4.jpg" class="rounded-circle" alt=""></div>
                             <p class="inbox-item-author">Kurafire</p>
                             <p class="inbox-item-text">Nice to meet you</p>
                             <p class="inbox-item-date">
@@ -262,7 +262,7 @@
                             <ul class="conversation-list">
                                 <li class="clearfix">
                                     <div class="chat-avatar">
-                                        <!-- <img src="../assets/images/users/user-5.jpg" alt="male"> -->
+                                        <img src="../assets/images/users/user-5.jpg" alt="male">
                                         <i>10:00</i>
                                     </div>
                                     <div class="conversation-text">
@@ -276,7 +276,7 @@
                                 </li>
                                 <li class="clearfix odd">
                                     <div class="chat-avatar">
-                                        <!-- <img src="../assets/images/users/user-1.jpg" alt="Female"> -->
+                                        <img src="../assets/images/users/user-1.jpg" alt="Female">
                                         <i>10:01</i>
                                     </div>
                                     <div class="conversation-text">
@@ -290,7 +290,7 @@
                                 </li>
                                 <li class="clearfix">
                                     <div class="chat-avatar">
-                                        <!-- <img src="../assets/images/users/user-5.jpg" alt="male"> -->
+                                        <img src="../assets/images/users/user-5.jpg" alt="male">
                                         <i>10:01</i>
                                     </div>
                                     <div class="conversation-text">
@@ -304,7 +304,7 @@
                                 </li>
                                 <li class="clearfix odd">
                                     <div class="chat-avatar">
-                                        <!-- <img src="../assets/images/users/user-1.jpg" alt="male"> -->
+                                        <img src="../assets/images/users/user-1.jpg" alt="male">
                                         <i>10:02</i>
                                     </div>
                                     <div class="conversation-text">

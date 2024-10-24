@@ -197,7 +197,7 @@ import PageTitle from './PageTitle.vue';
                         <tbody>
                             <tr>
                                 <td style="width: 36px;">
-                                    <!-- <img src="../../../assets/images/users/user-2.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" /> -->
+                                    <img src="../../../assets/images/users/user-2.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" />
                                 </td>
 
                                 <td>
@@ -225,7 +225,7 @@ import PageTitle from './PageTitle.vue';
 
                             <tr>
                                 <td style="width: 36px;">
-                                    <!-- <img src="../../../assets/images/users/user-3.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" /> -->
+                                    <img src="../../../assets/images/users/user-3.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" />
                                 </td>
 
                                 <td>
@@ -252,7 +252,7 @@ import PageTitle from './PageTitle.vue';
                             </tr>
                             <tr>
                                 <td style="width: 36px;">
-                                    <!-- <img src="../../../assets/images/users/user-4.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" /> -->
+                                    <img src="../../../assets/images/users/user-4.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" />
                                 </td>
 
                                 <td>
@@ -279,7 +279,7 @@ import PageTitle from './PageTitle.vue';
                             </tr>
                             <tr>
                                 <td style="width: 36px;">
-                                    <!-- <img src="../../../assets/images/users/user-5.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" /> -->
+                                    <img src="../../../assets/images/users/user-5.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" />
                                 </td>
 
                                 <td>
@@ -306,7 +306,7 @@ import PageTitle from './PageTitle.vue';
                             </tr>
                             <tr>
                                 <td style="width: 36px;">
-                                    <!-- <img src="../../../assets/images/users/user-6.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" /> -->
+                                    <img src="../../../assets/images/users/user-6.jpg" alt="contact-img" title="contact-img" class="rounded-circle avatar-sm" />
                                 </td>
 
                                 <td>

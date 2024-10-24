@@ -112,7 +112,7 @@
                 <div class="row align-items-center">
                     <div class="col-auto">
                         <div class="avatar-lg">
-                            <!-- <img src="../assets/images/users/user-3.jpg" class="img-fluid rounded-circle" alt="user-img"> -->
+                            <img src="../assets/images/users/user-3.jpg" class="img-fluid rounded-circle" alt="user-img">
                         </div>
                     </div>
                     <div class="col">
@@ -128,7 +128,7 @@
                 <div class="row align-items-center">
                     <div class="col-auto">
                         <div class="avatar-lg">
-                            <!-- <img src="../assets/images/users/user-4.jpg" class="img-fluid rounded-circle" alt="user-img"> -->
+                            <img src="../assets/images/users/user-4.jpg" class="img-fluid rounded-circle" alt="user-img">
                         </div>
                     </div>
                     <div class="col">
@@ -144,7 +144,7 @@
                 <div class="row align-items-center">
                     <div class="col-auto">
                         <div class="avatar-lg">
-                            <!-- <img src="../assets/images/users/user-5.jpg" class="img-fluid rounded-circle" alt="user-img"> -->
+                            <img src="../assets/images/users/user-5.jpg" class="img-fluid rounded-circle" alt="user-img">
                         </div>
                     </div>
                     <div class="col">
@@ -160,7 +160,7 @@
                 <div class="row align-items-center">
                     <div class="col-auto">
                         <div class="avatar-lg">
-                            <!-- <img src="../assets/images/users/user-6.jpg" class="img-fluid rounded-circle img-thumbnail" alt="user-img"> -->
+                            <img src="../assets/images/users/user-6.jpg" class="img-fluid rounded-circle img-thumbnail" alt="user-img">
                         </div>
                     </div>
                     <div class="col">
@@ -206,19 +206,19 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Mat Helme">
-                                                    <!-- <img src="../assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Michael Zenaty">
-                                                    <!-- <img src="../assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="James Anderson">
-                                                    <!-- <img src="../assets/images/users/user-3.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-3.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Username">
-                                                    <!-- <img src="../assets/images/users/user-5.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-5.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
                                             </div>
                                         </td>
@@ -232,15 +232,15 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="James Anderson">
-                                                    <!-- <img src="../assets/images/users/user-3.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-3.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Mat Helme">
-                                                    <!-- <img src="../assets/images/users/user-4.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-4.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Username">
-                                                    <!-- <img src="../assets/images/users/user-5.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-5.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
                                             </div>
                                         </td>
@@ -255,15 +255,15 @@
                                             <div class="avatar-group">
                                                 
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Michael Zenaty">
-                                                    <!-- <img src="../assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Mat Helme">
-                                                    <!-- <img src="../assets/images/users/user-6.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-6.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Username">
-                                                    <!-- <img src="../assets/images/users/user-7.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-7.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
                                             </div>
                                         </td>
@@ -277,15 +277,15 @@
                                         <td>
                                             <div class="avatar-group">
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Mat Helme">
-                                                    <!-- <img src="../assets/images/users/user-9.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-9.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Michael Zenaty">
-                                                    <!-- <img src="../assets/images/users/user-10.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-10.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="James Anderson">
-                                                    <!-- <img src="../assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-1.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
                                             </div>
                                         </td>
@@ -300,19 +300,19 @@
                                             <div class="avatar-group">
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Michael Zenaty">
-                                                    <!-- <img src="../assets/images/users/user-5.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-5.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="James Anderson">
-                                                    <!-- <img src="../assets/images/users/user-8.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-8.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Mat Helme">
-                                                    <!-- <img src="../assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-2.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
         
                                                 <a href="javascript: void(0);" class="avatar-group-item" data-toggle="tooltip" data-placement="top" title="" data-original-title="Username">
-                                                    <!-- <img src="../assets/images/users/user-7.jpg" class="rounded-circle avatar-xs" alt="friend"> -->
+                                                    <img src="../assets/images/users/user-7.jpg" class="rounded-circle avatar-xs" alt="friend">
                                                 </a>
                                             </div>
                                         </td>
